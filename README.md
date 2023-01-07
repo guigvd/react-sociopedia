@@ -70,4 +70,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Backend
 
-To run checkout payment need to open server folder on terminal and run `node index.js`
+In the project directory, you can run: `node index.js`
