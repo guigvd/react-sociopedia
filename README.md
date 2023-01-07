@@ -45,7 +45,7 @@ Study in practice.
 - Formik + Yup
 
 ## Backend
-- NodeJs
+- Node.Js
 - Express
 - Mongoose with MongoDB
 - JWT
