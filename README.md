@@ -1,12 +1,14 @@
-<h1 align="center">ECOMMER</h1> 
+<h1 align="center">SOCIOPEDIA</h1> 
 
-- Description:
+# Description:
 
-This project
-I built an ecommerce website using React, and for styling I used Material-UI. I used Redux toolkit to manage the state, and Formik for form validation.
-On the backend, I used Strapi as a Content Management Service to save time on implementation and reduce the effort needed to build an API.
+This is a social media application where you can register a user with an image, log in with them, add friends, publish and like a post with comments and an image, and have a dark/light mode.
 
-- Objective:
+
+
+For this app, I used a full-stack MERN stack. On the front end, I used React, React Router for navigation, Formik with Yup for form validation, Redux Toolkit with persistent for state management and local storage, React Dropzone for image upload. On the backend, I used Node.js for runtime, the Express framework, Mongoose for managing MongoDB, JWT (JSON Web Token) for authentication, and Multer for file upload.
+
+# Objective:
 
 Study in practice.
 
@@ -33,22 +35,25 @@ Study in practice.
 ![image](https://user-images.githubusercontent.com/100156111/211169523-ab227c56-c4d7-4030-b4e8-b572afa4ab68.png)
 
 
-
-
 # Technologies
 
 ## Frontend
 - React
-- JavaScript
-- Material UI
-- Redux
-- Formik
+- React Router
+- React Dropzone for image upload
+- Redux with persistent
+- Formik + Yup
 
 ## Backend
-- Strapi
+- NodeJs
+- Express
+- Mongoose with MongoDB
+- JWT
+- Multer
 
 # Future updates
-- Deploy of all aplication and add Stripe for payment.
+- Deploy of all aplication.
+- Add comment section.
 
 # Getting Started with Create React App
 
